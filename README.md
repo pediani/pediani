@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="https://i.imgur.com/NN25lXZ.gif">
+  <img align="right" src="https://cdn.discordapp.com/attachments/829380367000928306/876689795374526464/heart-128x.gif">
 </div>
   
   ##
