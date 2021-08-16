@@ -1,4 +1,4 @@
-### Olá, sou Vitor Pediani e seja bem vindo ao meu perfil aqui no GitHub :)
+### Olá, sou Vitor Pediani e seja bem vindo(a) ao meu perfil aqui no GitHub :)
 
 <br>
 
